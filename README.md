@@ -99,11 +99,11 @@ Ergebnis:
 ### Bilder
 
 ```markdown
-![Alt-Text](https://example.com/bild.png)
+![Alt-Text](https://picsum.photos/id/870/200/300?grayscale&blur=2)
 ```
 
 Ergebnis:  
-![Alt-Text](https://example.com/bild.png)
+![Alt-Text](https://picsum.photos/200/300)
 
 ---
 
